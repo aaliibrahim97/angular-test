@@ -1,0 +1,41 @@
+table {
+  width: 100%;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+td,
+th {
+  width: 25%;
+}
+
+.mb-2 {
+  margin-bottom: 1rem;
+}
+.absolute-b0-l0 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.relative-r8 {
+  position: relative;
+  right: 3.5rem;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+.my-2 {
+  margin: 0rem 0.5rem;
+}
+
+.center {
+  text-align: center;
+}
