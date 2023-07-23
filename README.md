@@ -20,7 +20,7 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Running ESLint tests
 
-Run `ng lint` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng lint` to execute the unit tests via [ESLint]
 
 ## Running end-to-end tests
 
